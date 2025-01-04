@@ -75,8 +75,6 @@ Com a separação do backend e frontend, a interface de usuário será ainda mai
 O projeto será configurado para deploy em nuvem, permitindo que a plataforma seja acessada por qualquer usuário, de qualquer lugar. As opções de nuvem que serão consideradas incluem:
 
 - **Heroku**: Para o deploy de backends Spring Boot e frontend estático.
-  
-- **AWS** ou **Google Cloud**: Para maior escalabilidade e opções avançadas de gerenciamento de banco de dados e servidores.
 
 ### 6. **Funcionalidades Avançadas**
 Algumas funcionalidades avançadas que serão adicionadas no futuro incluem:
