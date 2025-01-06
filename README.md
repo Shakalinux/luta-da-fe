@@ -102,7 +102,7 @@ Essas melhorias visam não apenas aumentar a performance e a segurança do siste
 1. Clone o repositório para o seu computador:
 
     ```bash
-    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+    git clone https://github.com/shakalinux/luta-da-fe.git
     ```
 
 2. Abra o arquivo `index.html` no seu navegador para visualizar o projeto.
